@@ -1,0 +1,13 @@
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.csproj.AssemblyReference.cache
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.AssemblyInfoInputs.cache
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.AssemblyInfo.cs
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.csproj.CoreCompileInputs.cache
+H:\PRN211\Workspace\BillManagement\BillLibrary\bin\Debug\net6.0\appsettings.json
+H:\PRN211\Workspace\BillManagement\BillLibrary\bin\Debug\net6.0\BillLibrary.deps.json
+H:\PRN211\Workspace\BillManagement\BillLibrary\bin\Debug\net6.0\BillLibrary.dll
+H:\PRN211\Workspace\BillManagement\BillLibrary\bin\Debug\net6.0\BillLibrary.pdb
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.dll
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\refint\BillLibrary.dll
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\BillLibrary.pdb
+H:\PRN211\Workspace\BillManagement\BillLibrary\obj\Debug\net6.0\ref\BillLibrary.dll

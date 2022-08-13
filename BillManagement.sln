@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillLibrary", "BillLibrary\BillLibrary.csproj", "{144BABA3-1DC3-49B2-AF9C-85FF9F7F1906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillWinApp", "BillWinApp\BillWinApp.csproj", "{632A27B1-B30E-47FA-AB6F-DE5AAC9D3420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144BABA3-1DC3-49B2-AF9C-85FF9F7F1906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144BABA3-1DC3-49B2-AF9C-85FF9F7F1906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144BABA3-1DC3-49B2-AF9C-85FF9F7F1906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144BABA3-1DC3-49B2-AF9C-85FF9F7F1906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632A27B1-B30E-47FA-AB6F-DE5AAC9D3420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632A27B1-B30E-47FA-AB6F-DE5AAC9D3420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632A27B1-B30E-47FA-AB6F-DE5AAC9D3420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632A27B1-B30E-47FA-AB6F-DE5AAC9D3420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20726454-F3E6-4B58-ABF7-6233D072B8DC}
+	EndGlobalSection
+EndGlobal
